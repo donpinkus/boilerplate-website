@@ -1,5 +1,9 @@
 # Website
 
+This includes a webserver, and the React web application.
+
+It does not include the API server, database, etc.  This is found in boilerplate-api.
+
 ## Tech
 
 - react
