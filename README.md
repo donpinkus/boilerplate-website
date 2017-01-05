@@ -12,7 +12,7 @@
 1. Clone
 2. Run `$ npm i` to install dependencies
 
-## Running local
+## Developing
 
 #### Dev
 
