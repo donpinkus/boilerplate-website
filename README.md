@@ -29,3 +29,22 @@ It does not include the API server, database, etc.  This is found in boilerplate
 ## Deploying
 
 TODO
+=======
+# Install
+
+# Running
+
+#### Development
+Uses webpack dev server for development (this makes compiling assets fast)
+
+`$ npm run dev`
+
+#### Local production
+Uses nodemon to run the nodeserver.  
+TODO: Possibly doesn't need nodemon, since its prod and it shouldn't be monitoring for changes.
+
+`$ npm start`
+
+# Deploy
+
+TBD
